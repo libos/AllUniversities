@@ -1,0 +1,910 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="World University Rankings, Academic Ranking of World Universities">
+<meta name="description" content="Academic Ranking of World Universities is the first world university ranking. It ranks the world's top 1000 colleges and universities based on objection indicators.">
+<title>2013 World University Rankings | Academic Ranking of World Universities</title>
+<link rel="icon" href="image/favicon.ico" type="image/x-icon">
+<link type="text/css" rel="stylesheet" href="style/layout.css" />
+<link type="text/css" rel="stylesheet" href="style/color.css" />
+<link type="text/css" rel="stylesheet" href="style/font.css" />
+<link type="text/css" rel="stylesheet" href="style/button.css" />
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<link type="text/css" rel="stylesheet" href="style/jquery-jvectormap-1.2.2.css" />
+<!--[if IE 7]>
+ <link rel="stylesheet" type="text/css" href="style/ie7.css" />
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18427660-5']);
+  _gaq.push(['_setDomainName', 'shanghairanking.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="js/jquery-jvectormap-1.2.2.min.js"></script>
+<script src="js/jquery-jvectormap-world-mill-en.js"></script>
+<script src="js/country-data.js"></script>
+<script src="js/amazingslider.js"></script>
+<script src="js/initslider-1.js"></script>
+<script type='text/javascript' src="js/mainnavmenu.js"></script>
+<script type='text/javascript' src="js/navigation.js"></script>
+<script type="text/javascript" src="js/jquery.tabso_yeso.js"></script>
+<script type="text/javascript">
+$(document).ready(function($){
+
+	$("#fadetab1").tabso({
+		cntSelect:"#fadecon1",
+		tabEvent:"mouseover",
+		tabStyle:"fade"
+	});
+	$("#fadetab2").tabso({
+		cntSelect:"#fadecon2",
+		tabEvent:"mouseover",
+		tabStyle:"fade"
+	});
+	
+
+});
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/77402755/University-of-Amsterdam', [160, 600], 'div-gpt-ad-1376531551825-0').addService(googletag.pubads());
+googletag.defineSlot('/77402755/University-of-Newcastle', [728, 90], 'div-gpt-ad-1376531551825-1').addService(googletag.pubads());
+googletag.defineSlot('/77402755/University-of-Western-Australia', [160, 600], 'div-gpt-ad-1376531551825-2').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+</head>
+
+<body>
+
+<div class="bg-toolbar">
+  <div  id="toolbar">
+    <div id="socialmedia"><a class="facebook" href="http://www.facebook.com/academicrankingofworlduniversities"></a><a  class="twitter" href="http://www.twitter.com/shanghairanking"></a><a  class="mail" href="mailto:contact@shanghairanking.com"></a></div>
+    <div id="userarea"><a class="cnEntrance" href="http://www.shanghairanking.cn">中文版</a></div>
+    <div>
+      <form class="bg-white">
+        <input id="keywords" class="middlegray" name="universitySearch" type="text" value="e.g. Harvard or Boston" onfocus="if (value =='e.g. Harvard or Boston'){value =''}" onblur="if (value ==''){value='e.g. Harvard or Boston'}"/>
+        <input id="search_now" class="middlegray" type="image" src="image/search-button.png" width="26" height="22">
+      </form>
+    </div>
+  </div>
+</div>
+<div id="wrap">
+  <div id="branding">
+    <h1><a href="index.html"><img src="image/ARWU.png" width="306" height="103" alt="Academic Ranking of World Universities"/></a></h1>
+    <div><!-- University-of-Newcastle -->
+<div id='div-gpt-ad-1376531551825-1' style='width:600px; height:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376531551825-1'); });
+</script>
+</div></div>
+  </div>
+  <div id="mainnav" class="mainnavmenu">
+    <ul>
+      <li class="firstli"><a href="index.html">Home</a></li>
+      <li class="firstli"><a href="#">About</a>
+        <ul class="secondul">
+          <li><a href="aboutus.html">About Us</a></li>
+          <li><a href="aboutarwu.html">About ARWU</a></li>
+          <li><a href="aboutiab.html">Int'l Advisory Board</a></li>
+        </ul>
+      </li>
+      <li class="firstli"><a href="#">Rankings</a>
+        <ul class="secondul">
+          <li><a href="#">ARWU</a>
+            <ul>
+              <li class="topline"><a href="ARWU2013.html">2013</a></li>
+              <li><a href="ARWU2012.html">2012</a></li>
+              <li><a href="ARWU2011.html">2011</a></li>
+              <li><a href="ARWU2010.html">2010</a></li>
+              <li><a href="ARWU2009.html">2009</a></li>
+              <li><a href="ARWU2008.html">2008</a></li>
+              <li><a href="ARWU2007.html">2007</a></li>
+              <li><a href="ARWU2006.html">2006</a></li>
+              <li><a href="ARWU2005.html">2005</a></li>
+              <li><a href="ARWU2004.html">2004</a></li>
+              <li><a href="ARWU2003.html">2003</a></li>
+            </ul>
+          </li>
+          <li><a href="#" class="sub">ARWU-FIELD</a>
+            <ul>
+              <li><a href="#" class="sub">SCI</a>
+                <ul>
+                  <li class="topline"><a href="FieldSCI2013.html">2013</a></li>
+                  <li><a href="FieldSCI2012.html">2012</a></li>
+                  <li><a href="FieldSCI2011.html">2011</a></li>
+                  <li><a href="FieldSCI2010.html">2010</a></li>
+                  <li><a href="FieldSCI2009.html">2009</a></li>
+                  <li><a href="FieldSCI2008.html">2008</a></li>
+                  <li><a href="FieldSCI2007.html">2007</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">ENG</a>
+                <ul>
+                  <li class="topline"><a href="FieldENG2013.html">2013</a></li>
+                  <li><a href="FieldENG2012.html">2012</a></li>
+                  <li><a href="FieldENG2011.html">2011</a></li>
+                  <li><a href="FieldENG2010.html">2010</a></li>
+                  <li><a href="FieldENG2009.html">2009</a></li>
+                  <li><a href="FieldENG2008.html">2008</a></li>
+                  <li><a href="FieldENG2007.html">2007</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">LIFE</a>
+                <ul>
+                  <li class="topline"><a href="FieldLIFE2013.html">2013</a></li>
+                  <li><a href="FieldLIFE2012.html">2012</a></li>
+                  <li><a href="FieldLIFE2011.html">2011</a></li>
+                  <li><a href="FieldLIFE2010.html">2010</a></li>
+                  <li><a href="FieldLIFE2009.html">2009</a></li>
+                  <li><a href="FieldLIFE2008.html">2008</a></li>
+                  <li><a href="FieldLIFE2007.html">2007</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">MED</a>
+                <ul>
+                  <li class="topline"><a href="FieldMED2013.html">2013</a></li>
+                  <li><a href="FieldMED2012.html">2012</a></li>
+                  <li><a href="FieldMED2011.html">2011</a></li>
+                  <li><a href="FieldMED2010.html">2010</a></li>
+                  <li><a href="FieldMED2009.html">2009</a></li>
+                  <li><a href="FieldMED2008.html">2008</a></li>
+                  <li><a href="FieldMED2007.html">2007</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">SOC</a>
+                <ul>
+                  <li class="topline"><a href="FieldSOC2013.html">2013</a></li>
+                  <li><a href="FieldSOC2012.html">2012</a></li>
+                  <li><a href="FieldSOC2011.html">2011</a></li>
+                  <li><a href="FieldSOC2010.html">2010</a></li>
+                  <li><a href="FieldSOC2009.html">2009</a></li>
+                  <li><a href="FieldSOC2008.html">2008</a></li>
+                  <li><a href="FieldSOC2007.html">2007</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="#" class="sub">ARWU-SUBJECT</a>
+            <ul>
+              <li><a href="#" class="sub">Mathematics</a>
+                <ul>
+                  <li class="topline"><a href="SubjectMathematics2013.html">2013</a></li>
+                  <li><a href="SubjectMathematics2012.html">2012</a></li>
+                  <li><a href="SubjectMathematics2011.html">2011</a></li>
+                  <li><a href="SubjectMathematics2010.html">2010</a></li>
+                  <li><a href="SubjectMathematics2009.html">2009</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">Physics</a>
+                <ul>
+                  <li class="topline"><a href="SubjectPhysics2013.html">2013</a></li>
+                  <li><a href="SubjectPhysics2012.html">2012</a></li>
+                  <li><a href="SubjectPhysics2011.html">2011</a></li>
+                  <li><a href="SubjectPhysics2010.html">2010</a></li>
+                  <li><a href="SubjectPhysics2009.html">2009</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">Chemistry</a>
+                <ul>
+                  <li class="topline"><a href="SubjectChemistry2013.html">2013</a></li>
+                  <li><a href="SubjectChemistry2012.html">2012</a></li>
+                  <li><a href="SubjectChemistry2011.html">2011</a></li>
+                  <li><a href="SubjectChemistry2010.html">2010</a></li>
+                  <li><a href="SubjectChemistry2009.html">2009</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">Computer Science</a>
+                <ul>
+                  <li class="topline"><a href="SubjectCS2013.html">2013</a></li>
+                  <li><a href="SubjectCS2012.html">2012</a></li>
+                  <li><a href="SubjectCS2011.html">2011</a></li>
+                  <li><a href="SubjectCS2010.html">2010</a></li>
+                  <li><a href="SubjectCS2009.html">2009</a></li>
+                </ul>
+              </li>
+              <li><a href="#" class="sub">Economics/Business</a>
+                <ul>
+                  <li class="topline"><a href="SubjectEcoBus2013.html">2013</a></li>
+                  <li><a href="SubjectEcoBus2012.html">2012</a></li>
+                  <li><a href="SubjectEcoBus2011.html">2011</a></li>
+                  <li><a href="SubjectEcoBus2010.html">2010</a></li>
+                  <li><a href="SubjectEcoBus2009.html">2009</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="firstli"><a href="Search.jsp">Universities</a></li>
+      <li class="firstli"><a href="http://www.shanghairanking.com/grup/index.html" class="menulink">GRUP</a></li>
+      <li class="firstli"><a href="#">Initiative</a>
+        <ul class="secondul">
+          <li><a href="#">Greater China Ranking</a>
+            <ul>
+              <li class="topline"><a href="Greater_China_Ranking/Greater_China_Ranking2012.html">2012</a></li>
+              <li><a href="Greater_China_Ranking/Greater_China_Ranking2011.html">2011</a></li>
+            </ul>
+          </li>
+          <li><a href="Macedonian_HEIs_Ranking/index.html">Macedonian Ranking</a> </li>
+        </ul>
+      </li>
+      <li class="firstli"><a href="http://www.shanghairanking.com/wcu/index.html" class="menulink">Conference</a></li>
+      <li class="firstli"><a href="resources.html" class="menulink">Resources</a></li>
+    </ul>
+  </div>
+  <div id="content">
+    <div id="slid"><div id="amazingslider-1" style="display:block;">
+        <ul class="amazingslider-slides" style="display:none;">
+            <li><a href="ARWU2013.html"><img src="images/ARWU2013.png" alt="ARWU 2013" /></a></li>
+            <li><a href="wcu/index.html"><img src="images/WCU-5.png" alt="WCU-5" /></a></li>
+            <li><a href="grup/index.html"><img src="images/GRUP2012.png" alt="GRUP" /></a></li>
+        </ul>
+        <ul class="amazingslider-thumbnails" style="display:none;">
+            <li><img src="images/example-tn.png" /></li>
+            <li><img src="images/example-tn.png" /></li>
+            <li><img src="images/example-tn.png" /></li>
+        </ul>
+    </div></div>
+    <div id="news-show" class="bg-white">
+      <h2>NEWS</h2>
+      <h3><a href="Academic-Ranking-of-World-Universities-2013-Press-Release.html">ARWU 2013 Press Release</a></h3>
+      <p>The 2013 Academic Ranking of World Universities (ARWU) is released today by the Center for World-Class Universities at Shanghai Jiao Tong University. Starting from a decade ago, ARWU has been presenting the world Top 500 universities annually based on transparent methodology and reliable data. It has been recognized as the precursor of global university rankings and the most trustworthy one.</p>
+      <br/>
+      <h3><a href="wcu/index.html">WCU-5 Conference to be Held in NOV 2013</a></h3>
+      <p>The 5th International Conference on World-class Universities (WCU-5) will be held between November 3 and 6, 2013 at Shanghai, China. The theme is "Global Outreach of World-Class Universities: How It is Affecting Higher Education". </p>
+      <br/>
+      <h3><a href="http://www.shanghairanking.com/GRUP_Survey/index.jsp">GRUP Survey - 2013 is Open Now</a></h3>
+      <p>The Global Research University Profiles (GRUP) project was conducted by the Center for World-Class Universities (CWCU) of Shanghai Jiao Tong University since 2011. </p>
+      
+      
+      <p><span class="more" style="padding-right:10px;">
+    <a href="#">More</a></span></p>
+    </div>
+    <div id="ranking-show">
+      <div id="arwu-show" class="bg-white">
+        <h2 >World Top 500 Universities</h2>
+        <div>
+          <ul>
+            <li> <em>1</em>
+              <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>2</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>3</em>
+              <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>4</em>
+              <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>5</em>
+              <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+              <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+          </ul>
+          <ul>
+            <li> <em>6</em>
+              <p><a href="World-University-Rankings/California-Institute-of-Technology.html">Caltech</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>7</em>
+              <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>8</em>
+              <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>9</em>
+              <p><a href="World-University-Rankings/University-of-Chicago.html">U.Chicago</a></p>
+              <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            <li> <em>10</em>
+              <p><a href="World-University-Rankings/University-of-Oxford.html">U.Oxford</a></p>
+              <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+          	<li style="padding:0 0 0 112px;"  class="more"><a href="ARWU2013.html">More</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <h2 >World Top 200 Universities in</h2>
+      <div class="fs-show bg-white"> 
+        <!--tabbtn end-->
+        
+        <ul class="tabbtn" id="fadetab1">
+          <li class="current"><a href="FieldSCI2013.html">SCI</a></li>
+          <li><a href="FieldENG2013.html">ENG</a></li>
+                    <li><a href="FieldLIFE2013.html">LIFE</a></li>
+
+          <li><a href="FieldMED2013.html">MED</a></li>
+          <li><a href="FieldSOC2013.html">SOC</a></li>
+        </ul>
+        <!--tabbtn end-->
+        <div class="tabcon" id="fadecon1">
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+              <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+               <p><a href="World-University-Rankings/California-Institute-of-Technology.html">Caltech</a></p>
+                
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+              <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+               
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+              <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/Swiss-Federal-Institute-of-Technology-Zurich.html">ETH Zurich</a></p>
+                <span><a href="World-University-Rankings-2013/Switzerland.html"><img src="image/flag/Swiss.gif" width="16" height="11" alt="Switzerland" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/The-University-of-Tokyo.html">Tokyo U.</a></p>
+                <span><a href="World-University-Rankings-2013/Japan.html"><img src="image/flag/Japan.gif" width="16" height="11" alt="Japan" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/University-of-California-Los-Angeles.html">UCLA</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/The-University-of-Texas-at-Austin.html">UT Austin</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/University-of-Illinois-at-Urbana-Champaign.html">UIUC</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+                <p><a href="World-University-Rankings/University-of-California-Santa-Barbara.html">UCSB</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/University-of-Michigan---Ann-Arbor.html">U.Michigan</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/Carnegie-Mellon-University.html">CMU</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/Georgia-Institute-of-Technology.html">Georgia Tech</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/Purdue-University---West-Lafayette.html">Purdue U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/University-of-California-San-Francisco.html">UCSF</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/University-of-Washington.html">U. Washington</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/University-of-California-San-Diego.html">UC San Diego</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/Yale-University.html">Yale U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/Rockefeller-University.html">Rockefeller U.</a></p>
+                <span><a href="World-University-Rankings-2013/United-Kingdom"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/University-of-California-San-Francisco.html">UCSF</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/University-of-Washington.html">U. Washington</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/The-Johns-Hopkins-University.html">Johns Hopkins U. </a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+                <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/University-of-California-Los-Angeles.html">UCLA</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/The-University-of-Texas-Southwestern-Medical-Center-at-Dallas.html">UT SW Med</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/University-of-Pittsburgh.html">U. Pittsburgh</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/University-of-Chicago.html">U. Chicago</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/Yale-University.html">Yale U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/University-of-Pennsylvania.html">U.Penn</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/New-York-University.html">New York U. </a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end--> 
+        </div>
+        <!--tabcon end--> 
+        
+        <!--tabbtn end--> 
+        <!--tabcon end--> 
+        
+      </div>
+      <!--tabbox end-->
+      <h2>World Top 200 Universities in</h2>
+      <div class="fs-show bg-white"> 
+        <!--tabbtn end-->
+        
+        <ul class="tabbtn" id="fadetab2">
+          <li class="current"><a style=" letter-spacing:-1px;" href="SubjectMathematics2013.html">Mathematics</a></li>
+          <li><a href="SubjectPhysics2013.html">Physics</a></li>
+          <li><a href="SubjectChemistry2013.html">Chemistry</a></li>
+          <li><a href="SubjectCS2013.html">Computer</a></li>
+          <li><a href="SubjectEcoBus2013.html">Economics</a></li>
+        </ul>
+        <!--tabbtn end-->
+        <div class="tabcon" id="fadecon2">
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+              <p><a href="World-University-Rankings/University-of-California-Berkeley".html>UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>4</em>
+              <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+                
+              <li> <em>5</em>
+              <p><a href="World-University-Rankings/Pierre-and-Marie--Curie-University---Paris-6.html">U.Paris 06</a></p>
+                <span><a href="World-University-Rankings-2013/France.html"><img src="image/flag/France.gif" width="16" height="11" alt="France" /></a></span> </li>
+              
+                
+            </ul>
+            <ul>
+              <li> <em>6</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+               
+              <li> <em>7</em>
+               <p><a href="World-University-Rankings/University-of-Oxford.html">U.Oxford</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+               
+              <li> <em>8</em>
+                 <p><a href="World-University-Rankings/University-of-Paris-Sud-(Paris-11).html">U.Paris 11</a></p>
+                <span><a href="World-University-Rankings-2013/France.html"><img src="image/flag/France.gif" width="16" height="11" alt="France" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/University-of-California-Los-Angeles.html">UCLA</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+              <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+              <p><a href="World-University-Rankings/California-Institute-of-Technology.html">Caltech</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>5</em>
+              <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+            </ul>
+            <ul>
+              <li> <em>6</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/The-University-of-Tokyo.html">Tokyo U.</a></p>
+                <span><a href="World-University-Rankings-2013/Japan.html"><img src="image/flag/Japan.gif" width="16" height="11" alt="Japan" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/University-of-Chicago.html">U.Chicago</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/Cornell-University.html">Cornell U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+              <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>3</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/University-of-Cambridge.html">U.Cambridge</a></p>
+                <span><a href="World-University-Rankings-2013/UK.html"><img src="image/flag/UK.gif" width="16" height="11" alt="UK" /></a></span> </li>
+              <li> <em>5</em>
+                <p><a href="World-University-Rankings/Swiss-Federal-Institute-of-Technology-Zurich.html">ETH Zurich</a></p>
+                <span><a href="World-University-Rankings-2013/Switzerland.html"><img src="image/flag/Swiss.gif" width="16" height="11" alt="Switzerland" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+                <p><a href="World-University-Rankings/California-Institute-of-Technology.html">Caltech</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/Kyoto-University.html">Kyoto U.</a></p>
+                <span><a href="World-University-Rankings-2013/Japan.html"><img src="image/flag/Japan.gif" width="16" height="11" alt="Japan" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/Northwestern-University.html">Northwestern U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+                <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>5</em>
+              <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+                <p><a href="World-University-Rankings/Carnegie-Mellon-University.html">CMU</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/Cornell-University.html">Cornell U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/The-University-of-Texas-at-Austin.html">UT Austin</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/University-of-California-Los-Angeles.html">UCLA</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings/University-of-Southern-California.html">USC</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end-->
+          <div class="sublist">
+            <ul>
+              <li> <em>1</em>
+                <p><a href="World-University-Rankings/Harvard-University.html">Harvard U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>2</em>
+              <p><a href="World-University-Rankings/University-of-Chicago.html">U.Chicago</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>3</em>
+                <p><a href="World-University-Rankings/Massachusetts-Institute-of-Technology-(MIT).html">MIT</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>4</em>
+              <p><a href="World-University-Rankings/Stanford-University.html">Stanford U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+                
+              <li> <em>5</em>
+              <p><a href="World-University-Rankings/University-of-California-Berkeley.html">UC Berkeley</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+            <ul>
+              <li> <em>6</em>
+              <p><a href="World-University-Rankings/Columbia-University.html">Columbia U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>7</em>
+                <p><a href="World-University-Rankings/Princeton-University.html">Princeton U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>8</em>
+                <p><a href="World-University-Rankings/University-of-Pennsylvania.html">U. Pennsylvania</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>9</em>
+                <p><a href="World-University-Rankings/New-York-University.html">NYU</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+              <li> <em>10</em>
+                <p><a href="World-University-Rankings//Northwestern-University.html">Northwestern U.</a></p>
+                <span><a href="World-University-Rankings-2013/USA.html"><img src="image/flag/USA.gif" width="16" height="11" alt="USA" /></a></span> </li>
+            </ul>
+          </div>
+          <!--tabcon end--> 
+        </div>
+        <!--tabcon end--> 
+        
+        <!--tabbtn end--> 
+        <!--tabcon end--> 
+        
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="map">
+<div id="world-map-gdp" style="width: 680px; height: 377px"></div>
+    <script>
+      //@code_start
+      $(function(){
+        $('#world-map-gdp').vectorMap({
+          map: 'world_mill_en',
+          series: {
+            regions: [{
+              values: gdpData,
+              scale: ['#C8EEFF', '#0071A4'],
+              normalizeFunction: 'polynomial'
+            }]
+          },
+    /*markerStyle: {
+      initial: {
+        fill: '#C8EEFF',
+        stroke: '#383f47'
+      }
+    },
+    markers: [
+      {latLng: [22.15, 114.15], name: 'Hong Kong, China'},
+      {latLng: [1.29, 104.6], name: 'Singapore'}
+    ],
+        onMarkerClick: function(event, index){
+      var url1 = "World-University-Rankings-2013/China-hk.html";
+	  var url3="World-University-Rankings-2013/Singapore.html";
+      if (index==0)
+      {
+		  $(location).attr('href',url1);
+      }
+	  if (index==1)
+	  {
+		  $(location).attr('href',url3);
+	  }
+        },*/
+
+　　　　onRegionOver: function(event, code){　
+          if(gdpData[code]==null) {}　else{
+　　　　　　　　　　$('#world-map-gdp').css({cursor:'pointer'});　　
+		  }
+　　　　},
+　　　　onRegionOut: function(event, code){
+　　　　　　　　　　$('#world-map-gdp').css({cursor:'auto'});
+　　　　},
+
+　　　　onMarkerOver: function(event, code){　　
+　　　　　　　　　　$('#world-map-gdp').css({cursor:'pointer'});　　
+　　　　},
+　　　　onMarkerOut: function(event, code){
+　　　　　　　　　　$('#world-map-gdp').css({cursor:'auto'});
+　　　　},
+
+          onRegionLabelShow: function(e, el, code){
+			if(gdpData[code]==null) {}
+			else if(code=='TW'){el.html(el.html()+', China<br/>9 Universities in ARWU Top 500');}
+			else if(code=='CN'){el.html(el.html()+'<br/>28  Universities in ARWU Top 500');}
+			else{
+            el.html(el.html()+'<br/>'+gdpData[code]+'  Universities in ARWU Top 500');
+			}
+          },
+		  onRegionClick: function(event, code){
+             if(gdpData[code]==null) {}else{
+			 var map = $('#world-map-gdp').vectorMap('get', 'mapObject');
+             window.location.href = 'World-University-Rankings-2013/'+ map.getRegionName(code).replace(/Taiwan/, "China-tw").replace(/United States of America/, "USA").replace(/United Kingdom/, "UK").replace(/Republic of /, "").replace(/ Republic/, "").replace(/ /, "-")+'.html';
+			 }
+　　　　}
+
+        });
+      });
+      //@code_end
+    </script>
+
+</div>
+  </div>
+  <div id="content-sub">
+    <ul>
+      <li><a href="http://en.sjtu.edu.cn/"><img src="image/ad-pic/SJTU.jpg" alt="sjtu" width="300" height="201" /></a></li>
+      <!-- University-of-Amsterdam -->
+<div id='div-gpt-ad-1376531551825-0' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376531551825-0'); });
+</script>
+</div>
+            <li><a href="http://www.shanghairankingbook.com/"><img src="image/ad-pic/SRC-TOP200-BOOK.png" alt="sjtu" width="300" height="100" /></a></li>
+
+
+      <li><a class="twitter-timeline"  href="https://twitter.com/ShanghaiRanking"  data-widget-id="331207319889252352">@ShanghaiRanking 的推文</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div id="footer">
+  <div id="category">
+    <div id="category-country">
+      <h2>World Top 500 Universities</h2>
+      <ul>
+        <li><a href="ARWU2013.html">World Top 500 Universities</a></li>
+        <li class="countrys"><a href="World-University-Rankings-2013/Australia.html">Australia</a> <a href="World-University-Rankings-2013/Austria.html">Austria</a> <a href="World-University-Rankings-2013/Belgium.html">Belgium</a> <a href="World-University-Rankings-2013/Brazil.html">Brazil</a> <a href="World-University-Rankings-2013/Canada.html">Canada</a> <a href="World-University-Rankings-2013/China.html">China</a> <a href="World-University-Rankings-2013/Denmark.html">Denmark</a> <a href="World-University-Rankings-2013/Finland.html">Finland</a> <a href="World-University-Rankings-2013/France.html">France</a> <a href="World-University-Rankings-2013/Germany.html">Germany</a><a href="World-University-Rankings-2013/China-hk.html">Hong Kong</a> <a href="World-University-Rankings-2013/Israel.html">Israel</a> <a href="World-University-Rankings-2013/Italy.html">Italy</a> <a href="World-University-Rankings-2013/Japan.html">Japan</a> <a href="World-University-Rankings-2013/Netherlands.html">Netherlands</a> <a href="World-University-Rankings-2013/New-Zealand.html">New Zealand</a><br /><a href="World-University-Rankings-2013/Norway.html">Norway</a> <a href="World-University-Rankings-2013/Russia.html">Russia</a><a href="World-University-Rankings-2013/Saudi-Arabia.html">Saudi Arabia</a> <a href="World-University-Rankings-2013/South-Korea.html">South Korea</a> <a href="World-University-Rankings-2013/Spain.html">Spain</a> <a href="World-University-Rankings-2013/Sweden.html">Sweden</a> <a href="World-University-Rankings-2013/Switzerland.html">Switzerland</a> <a href="World-University-Rankings-2013/China-tw.html">Taiwan</a> <a href="World-University-Rankings-2013/UK.html">UK</a> <a href="World-University-Rankings-2013/USA.html">USA</a></li>
+      </ul>
+    </div>
+    <div id="category-field">
+      <h2>ARWU-FIELD</h2>
+      <ul>
+        <li><a href="FieldSCI2013.html">Natural Sciences and Mathematics</a></li>
+        <li><a href="FieldENG2013.html">Engineering / Technology and Computer Sciences</a></li>
+        <li><a href="FieldLIFE2013.html">Life and Agriculture Sciences</a></li>
+        <li><a href="FieldMED2013.html">Clinical Medicine and Pharmacy</a></li>
+        <li><a href="FieldSOC2013.html">Social Sciences</a></li>
+      </ul>
+    </div>
+    <div id="category-subject">
+      <h2>ARWU-SUBJECT</h2>
+      <ul>
+        <li><a href="SubjectMathematics2013.html">Mathematics</a></li>
+        <li><a href="SubjectPhysics2013.html">Physics</a></li>
+        <li><a href="SubjectChemistry2013.html">Chemistry</a></li>
+        <li><a href="SubjectCS2013.html">Computer Science</a></li>
+        <li><a href="SubjectEcoBus2013.html">Economics/Business</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="site-search">
+      <form method=get id="searchform" action="http://www.google.com/search">
+                    <input type=hidden name=ie value=UTF-8>
+                    <input type=hidden name=oe value=UTF-8>
+                    <input type=hidden name=hl value=en-US>
+                    <input type=hidden name=domains value="/www.shanghairanking.com">
+                    <input type=hidden name=sitesearch value="/www.shanghairanking.com">
+        <input id="keywords-google" type="text" value="Site search" onfocus="if (value =='Site search'){value =''}" onblur="if (value ==''){value='Site search'}" />
+        <input id="search_now" type="image" src="image/search-button-white.png" width="33" height="28"/>
+      </form>
+    </div>
+  </div>
+  <div id="site-info" class="bg-dark">
+    <p><a href="contactus.html">Contact Us</a><a href="sitemap.html">SiteMap</a><a  href="privacy-statement.html">Privacy Statement</a></p>
+    <p>Copyright © 2013 ShanghaiRanking Consultancy. All Rights Reserved.</p>
+  </div>
+</div>
+</body>
+</html>
